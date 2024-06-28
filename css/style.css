@@ -1,7 +1,6 @@
 .body {
   font-family: Arial;
   margin: 0px;
-  background: #f7f7f7;
   display: grid;
   gap: 10px;
   justify-items: center;
@@ -17,6 +16,10 @@ img {
   width: 100%;
   max-width: 100%;
   display: block;
+}
+
+.tudo {
+  background: #f7f7f7;
 }
 
 h1 {
